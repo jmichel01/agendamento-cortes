@@ -111,3 +111,4 @@ status_label.pack(pady=5)
 mostrar_agendamentos()
 
 root.mainloop()
+# Atualização final confirmada em 2025
